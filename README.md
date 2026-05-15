@@ -86,19 +86,6 @@ What drives me? The moment a dataset that looked like noise starts telling a cle
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Murad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumabekov02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumabekov02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jumabekov02&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
 
 <div align="center">
 
