@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hey, I'm Murad Zhumabekov
-
-### Data Analyst · ML Engineer · Python Developer
-
-*Turning raw data into clear stories — one query at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Murad%20Zhumabekov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20ML%20Engineer%20%C2%B7%20Python%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murad-zhumabekov-715393240)
 
@@ -12,14 +8,23 @@
 
 ---
 
-## What I do
+## About Me
 
-I work at the intersection of **data engineering**, **analytics**, and **machine learning**.  
-If there's a dataset, I'll clean it. If there's a pattern, I'll find it. If there's a model to build — I'm already on it.
+> *"Without data, you're just another person with an opinion."*
+
+I'm a **Data Analyst & ML Engineer** based in 🇮🇹 Italy, with a passion for turning complex, messy data into clean insights and intelligent systems. I work across the full stack of data — from raw SQL queries and database design to machine learning models and interactive BI dashboards.
+
+What drives me? The moment a dataset that looked like noise starts telling a clear story.
+
+- 🔭 Currently building ML pipelines and data-driven applications
+- 🌍 Working and communicating in **3 languages** — English, Italian & Russian
+- 📊 Love crafting dashboards in **Power BI** and **Tableau** that people actually understand
+- 🤖 Exploring the intersection of **mathematics, animation (Manim)** and machine learning
+- 📬 Always open to interesting data challenges — reach out anytime!
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **💻 Programming**
 
@@ -75,30 +80,28 @@ If there's a dataset, I'll clean it. If there's a pattern, I'll find it. If ther
 | [🔍 Customer Churn Prediction](https://github.com/jumabekov02/customer-churn-prediction) | ML model to predict customer churn | Python, Scikit-Learn, Jupyter |
 | [🔐 Secure Client-Server System](https://github.com/jumabekov02/secure-client-server-system) | Encrypted client-server communication | Python |
 | [✈️ Airbnb Tableau Dashboard](https://github.com/jumabekov02/tableau-airbnb-dashboard) | Interactive rental market analysis | Tableau |
-| [🧹 World Layoffs Data Cleaning](https://github.com/jumabekov02/world-layoffs-data-cleaning) | SQL data cleaning on layoffs dataset | PostgreSQL / MySQL |
+| [🧹 World Layoffs Data Cleaning](https://github.com/jumabekov02/world-layoffs-data-cleaning) | SQL data cleaning on layoffs dataset | PostgreSQL |
 | [📊 Power BI Survey Dashboard](https://github.com/jumabekov02/powerbi-survey-dashboard) | Survey insights dashboard | Power BI |
 | [🚲 Excel Bike Sales Dashboard](https://github.com/jumabekov02/excel-bike-sales-dashboard) | Sales analytics in Excel | Excel |
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Murad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumabekov02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumabekov02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jumabekov02&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
-
-<!--
-**jumabekov02/jumabekov02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
