@@ -10,7 +10,6 @@
 
 ## About Me
 
-> *"Without data, you're just another person with an opinion."*
 
 I'm a **Data Analyst & ML Engineer** based in 🇮🇹 Italy, with a passion for turning complex, messy data into clean insights and intelligent systems. I work across the full stack of data — from raw SQL queries and database design to machine learning models and interactive BI dashboards.
 
