@@ -11,15 +11,15 @@
 ## About Me
 
 
-I'm a **Data Analyst & ML Engineer** based in 🇮🇹 Italy, with a passion for turning complex, messy data into clean insights and intelligent systems. I work across the full stack of data — from raw SQL queries and database design to machine learning models and interactive BI dashboards.
+I'm a **Data Analyst & ML Engineer** based in Italy, with a passion for turning complex, messy data into clean insights and intelligent systems. I work across the full stack of data — from raw SQL queries and database design to machine learning models and interactive BI dashboards.
 
 What drives me? The moment a dataset that looked like noise starts telling a clear story.
 
-- 🔭 Currently building ML pipelines and data-driven applications
-- 🌍 Working and communicating in **3 languages** — English, Italian & Russian
-- 📊 Love crafting dashboards in **Power BI** and **Tableau** that people actually understand
-- 🤖 Exploring the intersection of **mathematics, animation (Manim)** and machine learning
-- 📬 Always open to interesting data challenges — reach out anytime!
+-  Currently building ML pipelines and data-driven applications
+-  Working and communicating in **3 languages** — English, Italian & Russian
+-  Love crafting dashboards in **Power BI** and **Tableau** that people actually understand
+-  Exploring the intersection of **mathematics, animation (Manim)** and machine learning
+-  Always open to interesting data challenges — reach out anytime!
 
 ---
 
